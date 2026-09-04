@@ -6,17 +6,7 @@ A responsive website of a local hardware store using HTML and CSS.
 
 ## Live Website
 
-Link to the GitHub Pages/deployed website.
-
-## Project Preview
-
-Add screenshots of:
-
-Desktop homepage
-Products/categories
-About/team section
-Contact/store information
-Mobile version
+[Link to the GitHub Pages/deployed website.](https://ghs-tech.github.io/hardware_store_site/)
 
 ## Features
 
